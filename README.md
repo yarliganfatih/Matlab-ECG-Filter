@@ -7,7 +7,7 @@ In order to find the heart axis, a separate isoelectric line is found for leads 
 
 In addition, the Novose Formula is applied to calculate the Angle.
 
-![image](https://user-images.githubusercontent.com/54783062/164477064-3e63b329-0c32-439f-81b4-83eb92a350b0.png)
+![image](https://user-images.githubusercontent.com/54783062/164789613-971115b8-624e-44e8-bfa8-31582cc558f9.png)
 
 ### ECG samples:
 https://archive.physionet.org/cgi-bin/atm/ATM
